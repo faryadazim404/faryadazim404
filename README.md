@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Faryad Azim
+- 👀 I’m Student of CS as well as i'm fresh ReactJS/React Native Devolper...
+- 🌱 I’m currently learning MERN STACK...
+- 📫 reach me at faryadmaalic92@gmail.com/ faryadazim404@gmail.com ...
+
+<!---
+faryadazim404/faryadazim404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
